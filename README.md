@@ -15,9 +15,10 @@ DW-BI-Labs/
 ├── Lab01_Introduction_to_DW/
 │   ├── Lab01_Report.pdf
 │   ├── Lab01_SQL_Scripts.sql
-│   └── README.md
-│
-
+│── Lab02_AWS_Crawling_&_Azure_Tools
+│   ├──Lab02.docx
+│   ├──csv files
+│   ├──Lab02_manual
 
 ---
 

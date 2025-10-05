@@ -27,6 +27,7 @@ DW-BI-Labs/
 | Lab        | Topic                            | Key Concepts                                           |
 | ---------- | -------------------------------- | ------------------------------------------------------ |
 | **Lab 01** | Introduction to Data Warehousing | Architecture, Data Flow, OLTP vs OLAP                  |
+| **Lab 02** | AWS Crawling and Azure Tools     | Setup,Storage coloud,Workflow                          |
 
 ---
 

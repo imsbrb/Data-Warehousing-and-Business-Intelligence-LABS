@@ -19,6 +19,11 @@ DW-BI-Labs/
 │   ├──Lab02.docx
 │   ├──csv files
 │   ├──Lab02_manual
+├── Lab03_Star_Schema_and_Denormalization
+│   ├── Lab03_SQL_Script.sql
+│   ├── CSV_Files
+│   ├── Screenshots
+│   ├── Lab03_Manual.pdf
 
 ---
 
@@ -28,6 +33,7 @@ DW-BI-Labs/
 | ---------- | -------------------------------- | ------------------------------------------------------ |
 | **Lab 01** | Introduction to Data Warehousing | Architecture, Data Flow, OLTP vs OLAP                  |
 | **Lab 02** | AWS Crawling and Azure Tools     | Setup,Storage coloud,Workflow                          |
+| **Lab 03** | Star Schema & Denormalization    | OLTP vs OLAP, Star Schema Design, Denormalization      |
 
 ---
 

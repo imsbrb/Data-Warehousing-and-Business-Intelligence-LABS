@@ -1,5 +1,3 @@
-
-
 # 🧠 Data Warehousing & Business Intelligence Labs
 
 This repository contains all the lab assignments and practical exercises completed for the **Data Warehousing and Business Intelligence (DW & BI)** course.
@@ -15,35 +13,51 @@ DW-BI-Labs/
 ├── Lab01_Introduction_to_DW/
 │   ├── Lab01_Report.pdf
 │   ├── Lab01_SQL_Scripts.sql
-│── Lab02_AWS_Crawling_&_Azure_Tools
-│   ├──Lab02.docx
-│   ├──csv files
-│   ├──Lab02_manual
-├── Lab03_Star_Schema_and_Denormalization
+│
+├── Lab02_AWS_Crawling_&_Azure_Tools/
+│   ├── Lab02.docx
+│   ├── CSV_Files/
+│   ├── Lab02_Manual/
+│
+├── Lab03_Star_Schema_and_Denormalization/
 │   ├── Lab03_SQL_Script.sql
-│   ├── CSV_Files
-│   ├── Screenshots
+│   ├── CSV_Files/
+│   ├── Screenshots/
 │   ├── Lab03_Manual.pdf
+│
+├── Lab04_OLAP_Cube_Development/
+│   ├── Lab04_SQL_Scripts.sql
+│   ├── Lab04_Report.docx
+│   ├── Screenshots/
+│
+├── Lab05_BI_Reporting_and_Analysis/
+│   ├── Lab05_Report.pdf
+│   ├── Dataset/
+│   ├── Dashboards/
+```
 
 ---
 
 ## 🧩 Topics Covered
 
-| Lab        | Topic                            | Key Concepts                                           |
-| ---------- | -------------------------------- | ------------------------------------------------------ |
-| **Lab 01** | Introduction to Data Warehousing | Architecture, Data Flow, OLTP vs OLAP                  |
-| **Lab 02** | AWS Crawling and Azure Tools     | Setup,Storage coloud,Workflow                          |
-| **Lab 03** | Star Schema & Denormalization    | OLTP vs OLAP, Star Schema Design, Denormalization      |
+| Lab        | Topic                            | Key Concepts                                                         |
+| ---------- | -------------------------------- | -------------------------------------------------------------------- |
+| **Lab 01** | Introduction to Data Warehousing | Architecture, Data Flow, OLTP vs OLAP                                |
+| **Lab 02** | AWS Crawling and Azure Tools     | Cloud Setup, Storage, Data Crawling, Workflow                        |
+| **Lab 03** | Star Schema & Denormalization    | Fact & Dimension Tables, Star Schema Design, Denormalization         |
+| **Lab 04** | OLAP Cube Development            | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
+| **Lab 05** | BI Reporting & Visualization     | Dashboards, KPIs, Business Insights, Analytical Reporting            |
 
 ---
 
 ## ⚙️ Tools & Technologies
 
-* **SQL Server** / **MySQL** – for data storage and querying
-* **Python** – for scripting, analysis, and web scraping
-* **Pandas**, **Matplotlib**, **Seaborn** – for EDA and visualization
-* **Power BI / Tableau** – for business intelligence reporting
-* **Excel** – for data inspection and summary reporting
+* **SQL Server / MySQL** – data storage, querying, and OLAP cube development
+* **Python** – scripting, preprocessing, and analysis
+* **Pandas**, **Matplotlib**, **Seaborn** – EDA and visualization
+* **Power BI / Tableau** – business intelligence dashboards
+* **Excel** – data inspection and summary reporting
+* **Cloud Platforms (AWS / Azure)** – data crawling and cloud storage
 
 ---
 
@@ -51,26 +65,20 @@ DW-BI-Labs/
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/DW-BI-Labs.git
-   cd DW-BI-Labs
-   ```
+```bash
+git clone https://github.com/yourusername/DW-BI-Labs.git
+cd DW-BI-Labs
+```
 
-2. Open the SQL files in your preferred database client (e.g., SSMS or MySQL Workbench).
+2. Open the SQL files in your preferred database client
+   (e.g., **SQL Server Management Studio** or **MySQL Workbench**).
 
-3. For Python-based labs:
+3. Follow the **lab manual/report** included in each lab folder.
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+4. For BI labs (Lab 05):
 
-   Then run:
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Open the relevant notebook (e.g., `Lab06_Web_Scraping_and_EDA/Web_Scraping.ipynb`) to view and execute the code.
+   * Open dashboard files using **Power BI** or **Tableau**
+   * Connect datasets as instructed in the report
 
 ---
 
@@ -78,17 +86,17 @@ DW-BI-Labs/
 
 By completing these labs, you will:
 
-* Understand the architecture and design of a data warehouse.
-* Build and analyze OLAP cubes using different schemas.
-* Implement ETL pipelines for data preparation and loading.
-* Apply BI techniques for visualization and decision-making.
-* Perform exploratory data analysis (EDA) and data mining.
+* Understand data warehouse architecture and design principles.
+* Design and implement star schemas and denormalized structures.
+* Develop and analyze OLAP cubes using multidimensional operations.
+* Build interactive BI dashboards for decision support.
+* Apply data analysis techniques to extract business insights.
 
 ---
 
 ## 📜 Author
 
-**Name:** Mariyam Saleem
+**Name:** Mariyam
 **Course:** Data Warehousing & Business Intelligence
 **Program:** BS Data Science
 

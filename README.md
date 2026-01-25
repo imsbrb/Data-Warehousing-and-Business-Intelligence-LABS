@@ -28,12 +28,12 @@ DW-BI-Labs/
 ├── Lab04_OLAP_Cube_Development/
 │   ├── Lab04_SQL_Scripts.sql
 │   ├── Lab04_Report.docx
-│   ├── Screenshots/
 │
 ├── Lab05_BI_Reporting_and_Analysis/
 │   ├── Lab05_Report.pdf
 │   ├── Dataset/
-│   ├── Dashboards/
+│   ├── Lab05_SQLSCRIPT.sql
+│   ├── Lab05_LabManual.sql
 ```
 
 ---

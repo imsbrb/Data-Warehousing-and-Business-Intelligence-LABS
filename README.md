@@ -51,7 +51,7 @@ DW-BI-Labs/
 | **Lab 03** | Star Schema & Denormalization       | Fact & Dimension Tables, Star Schema Design, Denormalization         |
 | **Lab 04** | OLAP Cube Development               | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
 | **Lab 05** | BI Reporting & Visualization        | Dashboards, KPIs, Business Insights, Analytical Reporting            |
-| **Lab 06** | Data Mining & Exploratory Analysis  | DData Preprocessing, EDA, Statistical Analysis, Pattern Discovery    |
+| **Lab 06** | Data Mining & Exploratory Analysis  | Data Preprocessing, EDA, Statistical Analysis, Pattern Discovery     |
 
 ---
 

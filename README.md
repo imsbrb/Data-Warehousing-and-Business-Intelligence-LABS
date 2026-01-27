@@ -33,20 +33,25 @@ DW-BI-Labs/
 │   ├── Lab05_Report.pdf
 │   ├── Dataset/
 │   ├── Lab05_SQLSCRIPT.sql
-│   ├── Lab05_LabManual.sql
+│   ├── Lab05_LabManual
+│ 
+├── Lab06_Data_Mining_and_EDA/
+│   ├── Dataset/
+│   ├── Lab06_SQLSCRIPT.sql
 ```
 
 ---
 
 ## 🧩 Topics Covered
 
-| Lab        | Topic                            | Key Concepts                                                         |
-| ---------- | -------------------------------- | -------------------------------------------------------------------- |
-| **Lab 01** | Introduction to Data Warehousing | Architecture, Data Flow, OLTP vs OLAP                                |
-| **Lab 02** | AWS Crawling and Azure Tools     | Cloud Setup, Storage, Data Crawling, Workflow                        |
-| **Lab 03** | Star Schema & Denormalization    | Fact & Dimension Tables, Star Schema Design, Denormalization         |
-| **Lab 04** | OLAP Cube Development            | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
-| **Lab 05** | BI Reporting & Visualization     | Dashboards, KPIs, Business Insights, Analytical Reporting            |
+| Lab        | Topic                               | Key Concepts                                                         |
+| ---------- | --------------------------------    | -------------------------------------------------------------------- |
+| **Lab 01** | Introduction to Data Warehousing    | Architecture, Data Flow, OLTP vs OLAP                                |
+| **Lab 02** | AWS Crawling and Azure Tools        | Cloud Setup, Storage, Data Crawling, Workflow                        |
+| **Lab 03** | Star Schema & Denormalization       | Fact & Dimension Tables, Star Schema Design, Denormalization         |
+| **Lab 04** | OLAP Cube Development               | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
+| **Lab 05** | BI Reporting & Visualization        | Dashboards, KPIs, Business Insights, Analytical Reporting            |
+| **Lab 06** | Data Mining & Exploratory Analysis  | DData Preprocessing, EDA, Statistical Analysis, Pattern Discovery    |
 
 ---
 

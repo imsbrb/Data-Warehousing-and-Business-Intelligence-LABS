@@ -38,6 +38,19 @@ DW-BI-Labs/
 ├── Lab06_Data_Mining_and_EDA/
 │   ├── Dataset/
 │   ├── Lab06_SQLSCRIPT.sql
+│  
+├── Lab07
+│   ├── Lab07_Report.pdf
+│   ├── Dataset/
+│   ├── Lab07_SQLSCRIPT.sql
+│   ├── Lab07_LabManual
+│  
+├── Lab08_BI
+│   ├── Lab08_Report.pdf
+│   ├── Dataset/
+│   ├── Lab08_SQLSCRIPT.sql
+│   ├── Lab08_LabManual
+│  
 ```
 
 ---
@@ -52,6 +65,8 @@ DW-BI-Labs/
 | **Lab 04** | OLAP Cube Development               | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
 | **Lab 05** | BI Reporting & Visualization        | Dashboards, KPIs, Business Insights, Analytical Reporting            |
 | **Lab 06** | Data Mining & Exploratory Analysis  | Data Preprocessing, EDA, Statistical Analysis, Pattern Discovery     |
+| **Lab 07** | ETL, ELT & OLAP on Star Schema      | ETL vs ELT workflows                                                 |
+| **Lab 08** | Join Performance Analysis           | OLTP vs DSS query behavior                                           |
 
 ---
 

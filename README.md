@@ -50,23 +50,34 @@ DW-BI-Labs/
 │   ├── Dataset/
 │   ├── Lab08_SQLSCRIPT.sql
 │   ├── Lab08_LabManual
-│  
+│
+├── Lab09_Advanced_OLAP_and_Query_Optimization/
+│   ├── Dataset/
+│   ├── Lab09_Dashboard.tbx
+│   ├── Lab09_LabManual/
+│
+├── Lab10_Data_Partitioning_and_Performance_Tuning/
+│   ├── Lab10_Report.pdf
+│   ├── Dataset/
+│   ├── Lab10_SQLSCRIPT.sql
+│   ├── Lab10_LabManual/
 ```
 
 ---
 
 ## 🧩 Topics Covered
-
-| Lab        | Topic                               | Key Concepts                                                         |
-| ---------- | --------------------------------    | -------------------------------------------------------------------- |
-| **Lab 01** | Introduction to Data Warehousing    | Architecture, Data Flow, OLTP vs OLAP                                |
-| **Lab 02** | AWS Crawling and Azure Tools        | Cloud Setup, Storage, Data Crawling, Workflow                        |
-| **Lab 03** | Star Schema & Denormalization       | Fact & Dimension Tables, Star Schema Design, Denormalization         |
-| **Lab 04** | OLAP Cube Development               | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice |
-| **Lab 05** | BI Reporting & Visualization        | Dashboards, KPIs, Business Insights, Analytical Reporting            |
-| **Lab 06** | Data Mining & Exploratory Analysis  | Data Preprocessing, EDA, Statistical Analysis, Pattern Discovery     |
-| **Lab 07** | ETL, ELT & OLAP on Star Schema      | ETL vs ELT workflows                                                 |
-| **Lab 08** | Join Performance Analysis           | OLTP vs DSS query behavior                                           |
+| Lab        | Topic                                  | Key Concepts                                                           |
+| ---------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| **Lab 01** | Introduction to Data Warehousing       | Architecture, Data Flow, OLTP vs OLAP                                  |
+| **Lab 02** | AWS Crawling and Azure Tools           | Cloud Setup, Storage, Data Crawling, Workflow                          |
+| **Lab 03** | Star Schema & Denormalization          | Fact & Dimension Tables, Star Schema Design, Denormalization           |
+| **Lab 04** | OLAP Cube Development                  | Measures, Dimensions, Hierarchies, Roll-up, Drill-down, Slice & Dice   |
+| **Lab 05** | BI Reporting & Visualization           | Dashboards, KPIs, Business Insights, Analytical Reporting              |
+| **Lab 06** | Data Mining & Exploratory Analysis     | Data Preprocessing, EDA, Statistical Analysis, Pattern Discovery       |
+| **Lab 07** | ETL, ELT & OLAP on Star Schema         | ETL vs ELT Workflows, Data Loading Strategies                          |
+| **Lab 08** | Join Performance Analysis              | OLTP vs DSS Queries, Join Optimization                                 |
+| **Lab 09** | Advanced OLAP & Query Optimization     | Complex OLAP Queries, Performance Tuning, Execution Plans              |
+| **Lab 10** | Data Partitioning & Performance Tuning | Horizontal & Vertical Partitioning, Partition Pruning, EXPLAIN ANALYZE |
 
 ---
 
